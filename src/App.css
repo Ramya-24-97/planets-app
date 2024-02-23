@@ -41,6 +41,7 @@ body {
 
 .planet-card:hover {
   transform: scale(1.05);
+  background-color: #fff; 
   
 }
 
